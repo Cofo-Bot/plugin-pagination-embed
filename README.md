@@ -20,4 +20,5 @@ new PaginatorEmbed(client,{
         new Embed().setDescription("Hi"),
         new Embed().setDescription("Hi 2")
     ],
-})```
+})
+```
