@@ -21,6 +21,14 @@
     glob "^8.0.1"
     moment "^2.29.3"
 
+"@cofo/plugin-pagination-embed@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@cofo/plugin-pagination-embed/-/plugin-pagination-embed-1.0.0.tgz#0cbe923778c9d8fa790da22d7f0148a693dab090"
+  integrity sha512-+lbuvr4GiecY7C5cPuHWLOucuXEJEqeGG8h7GKqpe9D4qhT14BXNCt2XWF2gf+Ap6ayYGWyBe5L+WVeLdNN0Rg==
+  dependencies:
+    "@cofo/framework" "^1.0.1-stable.1"
+    eris "^0.16.1"
+
 "@eslint/eslintrc@^1.2.3":
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-1.2.3.tgz#fcaa2bcef39e13d6e9e7f6271f4cc7cae1174886"

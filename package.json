@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@cofo/framework": "^1.0.1-stable.1",
+    "@cofo/plugin-pagination-embed": "^1.0.0",
     "eris": "^0.16.1"
   }
 }
