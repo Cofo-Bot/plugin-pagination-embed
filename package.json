@@ -1,0 +1,16 @@
+{
+  "name": "@cofo/plugin-pagination-embed",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "eslint": "^8.15.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@cofo/framework": "^1.0.1-stable.1",
+    "eris": "^0.16.1"
+  }
+}
